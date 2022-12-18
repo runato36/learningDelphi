@@ -5,3 +5,6 @@ Example:
 
 Input: n = 3;
 Output: 993 x 913 = 906609;
+
+Constraints:
+1 < n < 5
